@@ -5,7 +5,7 @@
 [Lab 3](https://classroom.github.com/a/_Sw2KWcw) - Statistics  
 [Lab 4](https://classroom.github.com/a/Y9MTiA3n) - Diffusion   
 [Lab 5](https://classroom.github.com/a/xuB9eBNb) - Diffusion - Teil 2  
-
+[Lab 6](https://classroom.github.com/a/7Gmy1pkt) - Fraction Klasse
 
 ----
 
