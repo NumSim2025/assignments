@@ -7,6 +7,7 @@
 [Lab 5](https://classroom.github.com/a/xuB9eBNb) - Diffusion - Teil 2  
 [Lab 6](https://classroom.github.com/a/7Gmy1pkt) - Fraction Klasse
 [Lab 7](https://classroom.github.com/a/tGrtNAcP) - Relativistischer Oszillator
+[Lab 8](https://classroom.github.com/a/Fc9z1ORG) - Advection Equation (Upwind/FTCS)
 ----
 
 ### Homework
