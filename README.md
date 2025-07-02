@@ -9,7 +9,8 @@
 [Lab 7](https://classroom.github.com/a/tGrtNAcP) - Relativistischer Oszillator  
 [Lab 8](https://classroom.github.com/a/Fc9z1ORG) - Advection Equation (Upwind/FTCS)  
 [Lab 9](https://classroom.github.com/a/TEmqoMsb) - Burger's equation  
-[Lab 10](https://classroom.github.com/a/FgK51dLJ)] - Diffusion equation  
+[Lab 10](https://classroom.github.com/a/FgK51dLJ) - Diffusion equation  
+[Lab 11](https://classroom.github.com/a/yMIrWSVu) - Nonlinear Schrödinger Equation  
 
 ----
 
