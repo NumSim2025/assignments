@@ -12,6 +12,7 @@
 [Lab 10](https://classroom.github.com/a/FgK51dLJ) - Diffusion equation  
 [Lab 11](https://classroom.github.com/a/yMIrWSVu) - Nonlinear Schrödinger Equation  
 [Lab 12](https://classroom.github.com/a/BPxfb1OC) - Fouriertransformation   
+[Lab 13](https://classroom.github.com/a/MOqJslbO) - OpenMP
 ----
 
 ### Homework
